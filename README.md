@@ -15,7 +15,7 @@ Link to report: <br>
 Link to WBS/project plan: <br>
 
 **Background:** <br>
-Since the mid-80's, micrrochip implants have been used in pets and livestocks to identify them. These implements are a little larger than a rice grain. They are passive RFID chips that must be remotely powered to receive the identification information. They are progressively been required by law. <br>
+Since the mid-80's, microchip implants have been used in pets and livestocks to identify them. These implements are a little larger than a rice grain. They are passive RFID chips that must be remotely powered to receive the identification information. They are progressively been required by law. <br>
 
 Beside legal identification, these microchips can be used to identify a pet when they want to be fed (i.e., not allow an obese pet to over eat) or to let them enter or exit their home. The latter prevents "foreign" cats to enter homes where they have no business to be in. <br>
 
