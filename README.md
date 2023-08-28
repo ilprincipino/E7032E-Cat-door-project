@@ -2,7 +2,6 @@
 Universal low power antennas for pet microchips
 <p>
   
-  <br>And this is the second line.</p>
 Project members: <br>
 Matilda Segerlund, matseg-9@student.ltu.se  <br>
 Nebez Rashid, nabras-9@student.ltu.se <br>
