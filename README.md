@@ -10,7 +10,7 @@ Agnes Lindsten, <br>
 Arvid Mattsson, <br>
 Jakob Ekvall, jakekv-9@student.ltu.se <br>
 
-Link to report: <br>
+Link to report: https://www.overleaf.com/project/64ec89515c7249235bb439da <br>
 
 Link to WBS/project plan: <br>
 
