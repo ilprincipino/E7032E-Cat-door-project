@@ -7,12 +7,12 @@ Matilda Segerlund, matseg-9@student.ltu.se  <br>
 Nebez Rashid, nabras-9@student.ltu.se <br>
 Anders Hagström, hagane-9@student@ltu.se <br>
 Agnes Lindsten, <br>
-Arvid Mattsson, <br>
+Arvid Mattsson, arvmat-9@student.ltu.se <br>
 Jakob Ekvall, jakekv-9@student.ltu.se <br>
 
 Link to report: https://www.overleaf.com/project/64ec89515c7249235bb439da <br>
 
-Link to WBS/project plan: <br>
+Link to WBS/project plan: https://docs.google.com/spreadsheets/d/1j_RC8x2nzi24WwkHtlm5jIMLNItzt1e427vKWdE4rbc/edit?usp=sharing <br>
 
 **Background:** <br>
 Since the mid-80's, microchip implants have been used in pets and livestocks to identify them. These implements are a little larger than a rice grain. They are passive RFID chips that must be remotely powered to receive the identification information. They are progressively been required by law. <br>
