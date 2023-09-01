@@ -1,12 +1,25 @@
 Meeting 1
 
-Time, date:
+Time, date: 31/8, 15:00
 
 Attending: 
-
-
+  Everyone! :)
 
 Agenda: 
 - Project plan and WBS
+  - Planning what we need to do and how to divide the work. Matilda will make a project plan. 
+  - Matilda and Anders will have a meeting Monday 4/9 to plan the project and try to find tasks for everyone, structure the work a bit more. 
 - Division of roles and responsibilities. 
+  - Project managers: Matilda (responsible for software LP1, hardware LP2) and Anders (responsible for hardware LP1 and software LP2)
+  - Software engineer: Nebez
+  - Hardware engineers: Agnes, Arvid, and Jakob
+- Discussions
+  - Using a different antenna? Is one side(outside, inside) more prone to malfunction? Confusion as to why the antenna can't pick up signals 
+    from any direction since it's wrapped around the cat flap. 
+  - Could we make a longer tunnel? Could work, but not something Jan would like. 
+  - Discussions regarding hub/WiFi/server. Making sure it's low power, and information stays somewhat private. Sharing data locally and 
+    keeping the device secure even if it's connected to the internet. 
+  - We still have a lot to read about and learn regarding the cat flap, before we feel comfortable making decisions. 
+
 - Next meeting 
+  Tuesday, 5/9, 10:0
