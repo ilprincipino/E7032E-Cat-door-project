@@ -1,0 +1,34 @@
+Attending: 
+Matilda 
+Anders 
+
+Honorary guest: 
+Nebez!
+
+Time, date: 4/9, 10:00
+
+Agenda: 
+- GANTT chart
+  We fixed the GANTT-chart
+- Division of tasks  
+  - We need to divide tasks among our team memebers. 
+    - Software team has to figure out what kind of signals is being sent, and how to receive/use them. 
+      This will be the first task, to ensure the software team can work in parallel with the hardware team. 
+    - Hardware team: (Start with two working on antenna & IC, one working on IR-sensors (then power management or EMC))
+      - Agnes: 
+      - Jakob: 
+      - Arvid: 
+
+Things to do (hardware): 
+- Build the cat flap completely from scratch. 
+- Get low-frequncy signals, find IC for that, send data with microcontroller. Pick something with compability for everything, WiFi embedded? 
+- Make antenna. 
+- IR-sensors (how to they work?)
+- PCB-design.
+- Tests
+- Power supply (keep it low power, rätt spänning. Notis vid lite batteri?) 
+- Control motor. 
+- Buttons (vilka behöver man? Vilka vill vi ha?)
+
+Lol
+- När IR-sensorer går igång, så öppnas luckan lite, så katten tror att luckan öppnas och går in mer, så sticker den in huvudet lite mer. 
