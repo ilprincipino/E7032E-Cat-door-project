@@ -1,3 +1,51 @@
+Meeting 2
+
+Time, date: 5/9, 10:00
+
+Attending:
+  Everyone! 
+
+Agenda:
+- Oklarheter kring mötena med Jan
+  - Tror inte vi ska göra en presentation, fick inte så många frågor. Känns mest som att han vill 
+    få en update och se till att vi inte har frågor. 
+- Update från Nebez - vår mikrokontroller stödjer inte WiFi, då behöver vi en modul som kan koppla upp sig till internet. Kollat på ett kort. Lägger in det i sources. 
+    Kolla upp alla IC och se vilket som passar bäst, eller så bygger vi ett eget. Mer jobb och kanske svårare att designa själv, men vi får mer kontroll. Finns det chip som är 
+    väloptimerade? Vi går till Johan! Anders är fortfarande taggad på Nordic, inbyggt stöd för WiFi. 
+- Update from Matilda & Anders meeting yesterday
+  - Info till hårdvarugänget. Två ska jobba på antennen, den sista får välja mellan motor, strömförsörjning, IR, och IC-kretsen. Välja komponenter och se till att allt matchar. 
+  - Den sista som jobbar på {frivilligt, det blev sensorn}, jobbar mer med Nebez. 
+  - Jakob vill ha antenn! 
+  - Agnes tar sensorn!
+  - Arvid tar också antenn! 
+  - Matilda och Anders jobbar på motorn (och hjälper till där det behövs). 
+- Brainstorm ideas for Monday 
+  - "Det låter som att det är katten som är dum"
+  - Operera katten? 
+  - Rotera antennen? 
+  - Sätta en antenn uppe och en antenn nere? 
+  - Öppna kattluckan litegrann - är problemet att katten inte sticker in huvudet ordentligt kan man öppna luckan liiite/göra samma ljud som när luckan öppnas, eller använda catnip/kattgodis
+  - AI som känner igen din katt istället  => anti-bird protection! 
+  - Tvåstegsprocess - sensorn är lite vinklad (slår till oftare), om !chip - starta inte resten.
+- Annat 
+  - Gjort en shoppinglista och en sources. 
+  - Antennen drar förmodligen mest. Interrupts, på hela tiden men gör bara saker om det händer något. 
+  - Programmera in katter i luckan, men ta bort katter i en app. 
+  - Två olika chip för de olika frekvenserna? Oklart. 
+  - Raspberry pi för WiFi. 
+  - Använda RF från antennen som ska prata med appen, men nu fick vi ju veta att vi ska använda WiFi, så kanske inte viable. 
+  - Ingen hub. Den ska kunna koppla upp sig direkt till WiFi. 
+  - Man bör kunna använda vilka batterier som helst. 
+  - Agnes: kan man ha en sensor som slår på raspberry pi? Ja. 
+  - Break-beam sensor? Sounds like a plan. Lite oklart hur sensorerna den har just nu fungerar. Signalen studsar eller signalen bryts? Finns två på varje sida, 
+    verkade funka bra men inte helt pålitlig i elektronikkursen. Målet är att känna av när det är något nära, så reliable som möjligt. 
+  -  Schematic för hur saker ska kopplas ihop. Kolla upp exakt vilka komponenter vi ska använda. 
+  - Servermotorn - ska vi göra en, sno den som finns, eller använda Anders goodiebag? Är nog enklast att använda den som finns, men leker med Anders goodiebag för att testa 
+      saker. Begränsa hur mycket ström man kan ge den, man kanske kan ha igång den kortare tid för att göra den mer strömsnål. 
+- Nästa möte
+  - Stående möte tisdagar 10:15
+
+
 Meeting 1
 
 Time, date: 31/8, 15:00
