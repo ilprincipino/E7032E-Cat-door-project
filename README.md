@@ -6,7 +6,7 @@ Universal low power antennas for pet microchips
 Matilda Segerlund, matseg-9@student.ltu.se  <br>
 Nebez Rashid, nabras-9@student.ltu.se <br>
 Anders Hagström, hagane-9@student@ltu.se <br>
-Agnes Lindsten, <br>
+Agnes Lindsten, agelin-7@student.ltu.se <br>
 Arvid Mattsson, arvmat-9@student.ltu.se <br>
 Jakob Ekvall, jakekv-9@student.ltu.se <br>
 
