@@ -1,0 +1,97 @@
+Time, date: 6/9, 13:00
+
+Attending:
+  Agnes
+  Anders
+  Arvid
+  Jakob
+  Johan
+
+
+Hur vår prototyp CatFlap fungerar:
+	- RFID verkar vara uppdelat två delar: läs- och mottagningssida. 
+	- Eventuellt switchar de funktion beroende på vilken sida katten kommer ifrån. 
+	- Olika typer av trådar i spolen: Litz-tråd är den bättre sorten.
+	- Skickar in DC -> Ökar frekvensen så tar det tid för ström att propagera 
+	-> Skineffekt / Skindjup 0.1mm, detta är frekvensberoende.
+	-> Splittar upp -> Strömmen går igenom hela tvärsnittet.	
+	- Dämpning av sändarspolen behövs. 
+	- Låg förlust i sändarsidan (koppar) är bättre. Därav bättre material?
+	- Mottagningssidan (plast).
+	- Maila / Fråga orginal CatFlap angående funktion?
+	- Kolla med Jan: När tar sig katten inte IN eller UT?
+
+
+Förbättringar för sensorn:
+	- Placera fotodioderna på sidorna istället?
+	- PIR Detektor BRA. Kan vara känsliga för solen. Gör inte så mkt om slår på en gång för mycket. TESTA.
+
+
+Förbättringar antenn: Känslig för position/rotation av chip.
+	- Fler spolar med olika riktningar. Spolar även under och ovan.
+	- Simulera fälten.
+	- Aktivera en i taget för att inte störa varandras fält.
+	- Hur snabb Q-faktor dvs. Q-värdet (hur mkt energi tillför jag vs hur mkt är lagrad). 
+
+
+Simulering:
+	- COMSOL användarvänligt. 
+	- Fråga Jonas Ekman för modellering. Integralmetoder.	
+	- NEC2 gratis. Gammaldags. Blir textfil att parsa. Finns front-end vertyg, t.ex. 4NEC. 
+	- Diskretisera ledarna?
+	- Använd öppen miljö inga dielektiska mtl (approx som luft). Behövs ändå parameter för dörr (t.ex. trä).
+	- Problem: "Armerat glas" kan påverka negativ. Ståldörr vore problematiskt!
+
+
+Testa / Experimentera:
+	- Bra Q = 100-200. TESTA.
+	- 125kh --> fält bör ta ca. 1-10 ms för full effekt.
+	- Kolla ISO standard nogrannare. Kanske står hur lång tid att sända data.
+	- Hur lång tid för taggen att skicka meddelande? Hur skickar den? TESTA. GOOGLA.
+	- Hur fungerar antennen nu? Sändare + mottagare? En på varje sida? Switchar den under specifikt tidsintervall?
+	- Ev. skaffa ett FÄRDIGT CHIP och använda delar av det. Som drivsteg, förförstärkare. Värt att titta på hur de byggt, inspiration.
+
+
+Komponenter i CatFlap:
+	- CH?829 - OP-Amp till mottagaren? Demodulering?
+	- Kondensatorerna för resonans-krets?
+	- Fält som genereras - Kan påverka någonting (t.ex. fotdioder).
+	- IC rekommendationer? 
+	- STM var i kattluckan, inte använt detta.
+	- Raspberry Pi PICO kan dra mkt mycket ström. Pico Core drar lite ström?
+	- Nordic NRF chip (faller ofta tillbaka på STM32).
+	- Ofta väljer man det man kan och som fungerar. Viktigt del för rapporten: Anledning till val av komponenter.
+	- Alternativ är separat WiFi-anordning.
+	- Går att sända och ta emot i samma antenn.
+	- Två vinkelräta eller 45 grader mot varandra kan vara perfekt.
+
+
+Test: Bygg signalgenerator som driver transistor som driver en spole:
+	- Ett Common Collector steg.
+	- Hur nära detekteras chip?
+	- Hur många varv ger hur stor induktans?
+	- Finns induktans/kapacitans?
+	- Hur driva resonanskretsen. 
+
+
+Bygga resonanskrets (spole + kondensator) FOTO PÅ KRETS FINNS:
+	- RFID har ofta strömkälla direkt under kondensatorn "Serieresonanskkrets". Låg impedans vid resonans.
+		(Låg spänning hög ström).
+	- Driv med låg impedans-ingång (CC-krets).
+	- Testa med signalgenerator.
+	- Diod för att se outputsignalen - Likriktar energi från resonanskrets --> Se bits, kolla tidskonstant!
+
+
+Bygga separata kretsar vs Reläer för varje spole:
+	- Monostabila reläer - drar ström.
+	- Bi-stabila reläer - energieffektivare.
+	- Sända från en spole i taget --> Ta emot från alla.
+	- I elektronik labb, finns mätverktyg! Fråga Johan när behövs.
+
+
+Research:
+	- Hur designa spolar specifikt för RFID - t.ex. range beror på antal varv.
+	- Kolla vad som finns publicerat inom specifikt "RFID Orientation Sensitive".
+	- Kolla hur microchip fungerar (tid, exakt bits, etc.).
+
+
