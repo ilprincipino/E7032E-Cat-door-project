@@ -1,1 +1,3 @@
-Raspberry Pi Pico W https://www.electrokit.com/produkt/raspberry-pi-pico-w/ 
+
+Motor Control:
+  - https://se.farnell.com/texas-instruments/drv8837dsgr/motor-driver-dc-brushed-1-8a-wson/dp/3005855?st=drv8837dsgr - 1st - IC for H-Bridge. 
