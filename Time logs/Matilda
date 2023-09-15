@@ -3,8 +3,9 @@ WEEK 37
 - Worked on the motor. Implemented an H-bridge circuit and tested the operation of the motor in the cat flap.
   Discovered the needed voltage to keep the performance whilst also being energy efficient by testing different 
   voltages. Made some improvements with different transistors to get enough power for the motor. 
-- Participated in the finding of the IC for the H-bridge so we don't have to make our own. 
-- Written the report for the motor! 
+- Chose the IC for the H-bridge so we don't have to make our own. 
+- Written a first draft for some of the report for the motor. Still needs to be a bit prettier and I'm also
+  adding pictures, but it's a start. 
 - Made a presentatiton for the Monday-meeting
 - Joined Arvid and Jakob for the measuring of the antenna with a fancy oscilloscope. Learnt a bit about how the
   antenna is working, will be interesting to see what they do with the findings! 
