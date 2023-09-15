@@ -12,6 +12,8 @@ Jakob Ekvall, jakekv-9@student.ltu.se <br>
 
 Link to report: https://www.overleaf.com/project/64ec89515c7249235bb439da <br>
 
+Link to presentation: https://docs.google.com/presentation/d/12QPiXXhClUaFdsH-6-YMc6YWno67U1GOmlV3GwxZOh8/edit?usp=sharing
+
 Link to WBS/project plan: https://docs.google.com/spreadsheets/d/1j_RC8x2nzi24WwkHtlm5jIMLNItzt1e427vKWdE4rbc/edit?usp=sharing <br>
 
 **Background:** <br>
