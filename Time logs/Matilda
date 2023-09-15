@@ -2,7 +2,7 @@ WEEK 37
 
 - Worked on the motor. Implemented an H-bridge circuit and tested the operation of the motor in the cat flap.
   Discovered the needed voltage to keep the performance whilst also being energy efficient by testing different 
-  voltages.
+  voltages. Made some improvements with different transistors to get enough power for the motor. 
 - Participated in the finding of the IC for the H-bridge so we don't have to make our own. 
 - Written the report for the motor! 
 - Made a presentatiton for the Monday-meeting
