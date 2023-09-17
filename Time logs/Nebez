@@ -1,1 +1,8 @@
+Week 36
+Research about the components which is given with the catflap (all except the antenna).
+Searched for substitution components that can replace excisting ones. 
 
+Week 37
+Built a prototype IR break beam diode circuit with arduino code. When the prototype was up and 
+running I started working on the exciting IR diodes that's on the catflap. Researched how they react to
+different resistor values and where the optimal voltage supply is to get a decent sensor output.
