@@ -25,10 +25,13 @@ MOTOR CONTROL:
   - https://se.farnell.com/texas-instruments/drv8837dsgr/motor-driver-dc-brushed-1-8a-wson/dp/3005855?st=h-bridge%20motor%20driver 2023-09-10 08:29
 
 POWER MANAGEMENT:
- - https://www.godsontechnology.com/ni-cd-series/2152.html 2023-09-19 12:30
- - https://madscientisthut.com/wordpress/daily-blog/aa-battery-discharge-curves/
- - https://data.energizer.com/pdfs/nh15-2300.pdf
- - https://archive.goughlui.com/wp-content/uploads/2016/12/GABT-CurvesOverallNR.png
- - https://madscientisthut.com/wordpress/wp-content/uploads/2013/12/Kirkland.jpg
- - https://madscientisthut.com/wordpress/wp-content/uploads/2013/12/Rayovac50ma1.jpg
- - https://en.wikipedia.org/wiki/AA_battery#NiZn
+ AA-Batteries:
+  - https://www.godsontechnology.com/ni-cd-series/2152.html 2023-09-19 12:30
+  - https://madscientisthut.com/wordpress/daily-blog/aa-battery-discharge-curves/
+  - https://data.energizer.com/pdfs/nh15-2300.pdf
+  - https://archive.goughlui.com/wp-content/uploads/2016/12/GABT-CurvesOverallNR.png
+  - https://madscientisthut.com/wordpress/wp-content/uploads/2013/12/Kirkland.jpg
+  - https://madscientisthut.com/wordpress/wp-content/uploads/2013/12/Rayovac50ma1.jpg
+  - https://en.wikipedia.org/wiki/AA_battery#NiZn
+ Boost-converter:
+  - https://www.monolithicpower.com/en/mp3424-single-aa-battery-boost-solution 2023-09-19
