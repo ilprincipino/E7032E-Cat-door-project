@@ -1,27 +1,39 @@
 WEEK 37:
+  Monday:
+    Had a meeting with Jan.
+  
+  Tuesday:
+    Worked on controlling a DC-motor and be able to drive it in different directions with the help of and H-Bro.
+  
+  
+  Wednesday:
+    Made the H-Bridge better with MOSFET in order to draw more current compare to the BJT (200mA).
+  
+  
+  Thursday:
+    And measure the motor and determine that we are done with that part of the whole project.
+    Find a H-brdige IC that are able to handle our motor and be able to controll it with a microcontroller. 
+    
+    Manage to get more lab equipment in order to do basic measurements in the project room.
+    Helped Nabaz with IR-sensor.
+  
+  Friday:
+    Talked to Joakim to find where our order stuff are.
+    Email Jan in order to see where the components are.
+    Did more planning for the entire project and see how its going.
+    Help with flowchart of what happens when the cat goes in the cat flap.
 
-Monday:
-Had a meeting with Jan.
 
-Tuesday:
-Worked on controlling a DC-motor and be able to drive it in different directions with the help of and H-Bro.
+WEEK 38:
+  Monday:
+    Meeting with the peebs.
+    Starting to work with powermanagement of the project.
 
-
-Wednesday:
-Made the H-Bridge better with MOSFET in order to draw more current compare to the BJT (200mA).
-
-
-Thursday:
-And measure the motor and determine that we are done with that part of the whole project.
-Find a H-brdige IC that are able to handle our motor and be able to controll it with a microcontroller. 
-
-Manage to get more lab equipment in order to do basic measurements in the project room.
-Helped Nabaz with IR-sensor.
-
-Friday:
-Talked to Joakim to find where our order stuff are.
-Email Jan in order to see where the components are.
-Did more planning for the entire project and see how its going.
-Help with flowchart of what happens when the cat goes in the cat flap.
-
-
+  Tuesday:
+    
+  Wednesday:
+    
+  Thursday:
+    
+  Friday:
+    
