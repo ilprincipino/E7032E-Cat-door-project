@@ -14,9 +14,11 @@ MG90 servo motor: https://datasheetspdf.com/pdf-file/1106582/ETC/MG90S/1
 
 IR break beam sensor: https://opencircuit.shop/product/ir-break-beam-sensor-5mm-leds
  
-IR SENSOR:
- - How to calculate resistorvalue  - https://www.youtube.com/watch?v=QJlzTaTU7LY 2023-09-19
+VARTA AA-Battery Datasheet: https://docs.rs-online.com/da5b/0900766b81689431.pdf 2023-09-19
 
+IR SENSOR:
+ How to calculate resistorvalue:
+    - https://www.youtube.com/watch?v=QJlzTaTU7LY 2023-09-19
 
 MOTOR CONTROL:
  Information about H-bridge:
