@@ -2,19 +2,17 @@ Save your sources people!
 
 Cat flap: https://www.direct-vet.co.uk/ressources/sureflap_cat_flap_manual.pdf
 
-Antenna design PDF: http://ww1.microchip.com/downloads/en/AppNotes/00710c.pdf
 
-EM4100 125kHz: https://docs.rs-online.com/6ee7/0900766b8161beae.pdf
-EM4100 Protocol: https://www.priority1design.com.au/em4100_protocol.html
-
-MG90 servo motor: https://datasheetspdf.com/pdf-file/1106582/ETC/MG90S/1
-
-IR break beam sensor: https://opencircuit.shop/product/ir-break-beam-sensor-5mm-leds
- 
+ANTENNA:
+ - Farnell search que for some tags: https://se.farnell.com/w/c/wireless-modules-adaptors/rfid-modules/rfid-transponders-tags?frequency=125khz|134.2khz&st=rfid%20tag 2023-09-19
+ - Antenna design PDF: http://ww1.microchip.com/downloads/en/AppNotes/00710c.pdf
+ - EM4100 125kHz: https://docs.rs-online.com/6ee7/0900766b8161beae.pdf
+ - EM4100 Protocol: https://www.priority1design.com.au/em4100_protocol.html
 
 IR SENSOR:
  How to calculate resistorvalue:
     - https://www.youtube.com/watch?v=QJlzTaTU7LY 2023-09-19
+ IR break beam sensor: https://opencircuit.shop/product/ir-break-beam-sensor-5mm-leds
 
 MOTOR CONTROL:
  Information about H-bridge:
@@ -23,6 +21,7 @@ MOTOR CONTROL:
  Potential choice of IC component:
   - https://se.farnell.com/texas-instruments/drv8836dssr/driver-motor-dual-h-bridge-12son/dp/3005853?st=h-bridge%20motor%20driver 2023-09-10 08:29
   - https://se.farnell.com/texas-instruments/drv8837dsgr/motor-driver-dc-brushed-1-8a-wson/dp/3005855?st=h-bridge%20motor%20driver 2023-09-10 08:29
+ MG90 servo motor: https://datasheetspdf.com/pdf-file/1106582/ETC/MG90S/1
 
 POWER MANAGEMENT:
  AA-Batteries:
