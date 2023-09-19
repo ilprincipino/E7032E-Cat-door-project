@@ -1,7 +1,58 @@
+Meeting 4
+Time, date: 19/9, 10:15
+Attending: 
+Everyone but Agnes :(
+Agnes kom sent!
+
+Agenda:
+
+- Diskussion: IR-sensors
+  - Pulsera under ett intervall, inte på hela tiden, men katten ska inte behöva vänta. Nu 160 ms. 
+  - Större intervall = mindre ström. Hitta ett bra threshold med lite tester. 
+  - Inte fin kod, men den ska fungera som det är tänkt. Kan vi komma undan med mindre ström? 
+  - Mer robust med mer tester!
+  - Testa värden senare? Nja, testa allt nu så att det fungerar som vi väntar oss. 
+  - Hitta ett intervall där den fungerar som vi tänkt oss, inte superexakt. Mest "det här kommer funka".
+  - Hög skillnad i IR-sensor drar mycket ström, men robustheten är inte på topp. 
+  - Drar mottagaren något? Nej. 
+  - Sätt upp test för att se hur lite vi behöver för att sensorerna ska fungera. 
+  - Design choices. Har testat olika sensorer, de nya ger bättre resultat. Potentiell nackdel, den 
+      ena mottagaren är bättre. Vi tror att de nya är bättre. Hur emitterar sensorerna? Det kanske 
+      spelar roll. Vi kan göra vad vi vill, så länge det är robust och fungerar som det ska! 
+  - Gör fler tester, kolla vinkel och strömtester. Skriv i rapport och motivera val!
+  - Diskussion om spänningsfall i dioder. Jag hänger inte helt med (:
+
+- Goals for midterm presentation (2/11)
+  - Två komponenter typ klara, motor och IR-sensorer(kolla om den går på tid eller stannar när det tar stopp?)
+      - Motorn kanske är igång tills motsatt IR-sensor läst av något?
+  - Hur antennen sänder information. Göra en krets som kan skicka såna signaler. Kanske inte förstå i detalj, 
+    så länge vi kan inducera ett fält. Efter det, försöka se hur vi mäter och får in informationen. 
+    Analysera informationen. Färdig prototypkrets, kunna inducera fält och ta emot enklare information. 
+- Power management för att dra så lite som möjligt. 
+- PCB-design så klar den kan bli. Ha antennen separat så man inte behöver vänta? Beställa 2 vändor av 
+  PCB, så vi kan se vad som går fel och rätta det. Lämna 4 kontakter till antennen. 
+- Börja kolla på app. Mjukvarulösningar och databas, beslut kring det. App ska vara extra, så kattluckan
+  ska ändå fungera. 
+- Få IR och motor att fungera hårdvaru- och kodmässigt. 
+- Skriva rapport för alla delar vi gjort!!!!!!
+- Mer mätningar på antennen, var hittar den? Motorn - är den mer strömsnål?
+- Testuppställning för antennen. 
+
+Notes
+- Antenngäng - säg till om ni vill beställa fler kattchip. Det kanske vi borde göra typ snart. Arvid & Jakob letar!
+
+
+
+Meeting 3
+Time, date: 12/9, 10:15
+Attending: Everyone!
+
+No meeting, we'll get to work instead. 
+
+
+
 Meeting 2
-
 Time, date: 5/9, 10:00
-
 Attending:
   Everyone! 
 
@@ -46,10 +97,9 @@ Agenda:
   - Stående möte tisdagar 10:15
 
 
+
 Meeting 1
-
 Time, date: 31/8, 15:00
-
 Attending: 
   Everyone! :)
 
