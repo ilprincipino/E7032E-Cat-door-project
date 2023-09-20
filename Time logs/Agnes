@@ -23,3 +23,11 @@ Wednesday
       Can we get away without op amp to save power? 
 
   -  Simulated transresistance amp in PSpice. Compared gain LM358 and µA741.
+
+Fick hjälp från Johan:
+TODO:   kolla hur stor strömskillnad från uppmätt graf (använde spännings-tricket)!
+        designa komparator krets utifrån detta, hur stor diff i ström räcker? (kan vi skippa förstärkaren)?
+        hitta lämplig komponenter komparator: läckström (ca 1 nA okej), RRIO (ca 6V), gain bandwith product GBP ca 0.5 MHz okej).
+        bias krets för matning från batteri (endast positiv matning) ca 4V bias punkt
+
+        ev. inte för avancerat filter som inte dämpar signalen för mycket.
