@@ -1,1 +1,25 @@
 
+WEEK 38
+
+Monday
+  Grand Meeting / Presentation.
+
+
+Tuesday
+  - Working on Arduino code for IR sensor and measurement.
+  - Testing oscilloscope in project room :)
+  - Want to add an op-amp and potentiometer to the circuit and look up correct resistance for IR-diode in hand.
+
+
+Wednesday
+  - "Research": 
+      We probably want a transresistance amplifier circuit since photodiode gives change in current (or actually resistance). Convert to a voltage gain. 
+      Standard op amp seems to be LM358.
+      Example circuit:
+      https://www.ti.com/lit/an/sboa268a/sboa268a.pdf?ts=1695189607426&ref_url=https%253A%252F%252Fwww.google.com%252F
+      How get negative power to op amp? Can we use two of the batteries for that? Probably not.
+      Op amp don't function in negative temperatures? Solved by being placed on inside part of door?
+      Can we use a UA741 instead and how bias it differently?
+      Can we get away without op amp to save power? 
+
+  -  Simulated transresistance amp in PSpice. Compared gain LM358 and µA741.
