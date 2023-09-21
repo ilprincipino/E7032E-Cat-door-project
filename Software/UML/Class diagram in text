@@ -1,0 +1,32 @@
+IR sensors
+pulseTime: int
+sensor1Active: bool (or int??)
+sensor2Active: bool
+
+standby() //aka pulse
+foundObject() //send signal to motor to both open and close 
+turnOff() //Use only in foundObject, to kill power to the other sensor 
+turnOn() //Get signal from antenna to turn back on 
+
+
+Motor
+motorDirection: int //0 for left, 1 for right, for example
+motorControl: int //0 for off, 1 for on
+threshold: int //set reasonable value for the cat to change its mind
+
+turnOn() //turn on motor, set direction, after taking variable from IR
+turnOff() //turn off the motor, set direction, after getting signal from IR, or threshold. 
+
+
+Button
+holdTime: int //user input, how long is the button pressed for?
+threshold: int //threshold for how long the button has to be pressed to turn on/off
+
+buttonPressed()
+programCat()
+
+
+Antenna
+catInfo: string
+
+readChip()
