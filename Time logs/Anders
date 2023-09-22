@@ -24,14 +24,23 @@ WEEK 37:
 WEEK 38:
   Monday:
     Meeting with Jan.
+
   Tuesday:
     Meeting with the peebs.
     Starting to work with powermanagement of the project.
     Looked in to Raspberry pi pico and RP2040.
+
   Wednesday:
     Worked with Matilda to control some led's and also measure the voltage of the Motor with a oscilloscope.
     Planned with Matilda and Nabaz on how the buttons are gonna operate on the PCB, what button do what.
+
   Thursday:
-    
+    Tested in practice some circuits for MOSFET application in order to learn and use it in some parts of the project.
+
   Friday:
-    
+    Worked with Matilda as we manage to get the raspberry pi pico to work with python code.
+    Played around with some LEDs and Button in order to learn and implement them in the project.
+    Planned work for next week.
+    Helped Matidla fixed powerpoint for next week.
+    Did some planning for the future of the project.
+
