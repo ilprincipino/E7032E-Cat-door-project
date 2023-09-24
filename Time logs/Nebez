@@ -6,3 +6,11 @@ Week 37
 Built a prototype IR break beam diode circuit with arduino code. When the prototype was up and 
 running I started working on the exciting IR diodes that's on the catflap. Researched how they react to
 different resistor values and where the optimal voltage supply is to get a decent sensor output.
+
+Week 38
+The IR sensors is the one thing that is going to be constantly ON. So I been looking in to different ways 
+for the component to draw as little power as possible. The solution might be that the rsp pico will pulse
+PWM signals to a MOSFET which will act as an gate to activate the current for the sensor, which means we can control
+when and how often the IR sensors will be ON. 
+Another problem is the signal when we actually reads something. This needs to be amplified and a comparator might be the answer 
+to my prayers.
