@@ -1,24 +1,16 @@
-WEEK 37:
+WEEK 39:
   Monday:
-    Had a meeting with Jan.
+    Meeting with Jan.
 
   Tuesday:
-    Worked on controlling a DC-motor and be able to drive it in different directions with the help of and H-Bro.
-  
+  Meeting with the group.
+  Worked with Matilda on getting the LEDS to work with button and also manage to control the motor with some buttons.
+    
   Wednesday:
-    Made the H-Bridge better with MOSFET in order to draw more current compare to the BJT (200mA).
-  
+
   Thursday:
-    And measure the motor and determine that we are done with that part of the whole project.
-    Find a H-brdige IC that are able to handle our motor and be able to controll it with a microcontroller. 
-    Manage to get more lab equipment in order to do basic measurements in the project room.
-    Helped Nabaz with IR-sensor.
-  
+
   Friday:
-    Talked to Joakim to find where our order stuff are.
-    Email Jan in order to see where the components are.
-    Did more planning for the entire project and see how its going.
-    Help with flowchart of what happens when the cat goes in the cat flap.
 
 
 WEEK 38:
@@ -44,14 +36,25 @@ WEEK 38:
     Helped Matidla fixed powerpoint for next week.
     Did some planning for the future of the project.
 
-WEEK 39:
-    Monday:
-    Meeting with Jan.
+
+WEEK 37:
+  Monday:
+    Had a meeting with Jan.
 
   Tuesday:
-
+    Worked on controlling a DC-motor and be able to drive it in different directions with the help of and H-Bro.
+  
   Wednesday:
-
+    Made the H-Bridge better with MOSFET in order to draw more current compare to the BJT (200mA).
+  
   Thursday:
-
+    And measure the motor and determine that we are done with that part of the whole project.
+    Find a H-brdige IC that are able to handle our motor and be able to controll it with a microcontroller. 
+    Manage to get more lab equipment in order to do basic measurements in the project room.
+    Helped Nabaz with IR-sensor.
+  
   Friday:
+    Talked to Joakim to find where our order stuff are.
+    Email Jan in order to see where the components are.
+    Did more planning for the entire project and see how its going.
+    Help with flowchart of what happens when the cat goes in the cat flap.
