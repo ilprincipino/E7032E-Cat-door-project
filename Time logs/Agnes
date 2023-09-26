@@ -2,12 +2,15 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 WEEK 39
 
-    TODO:   - Decide which circuit option to build. 
+    TODO:   - "Simplifiera och gör något som funkar"
+            - Decide which circuit option to build. 
             - Write in report. 
             - Do more testing. 
             - Read about low power microcontroller and ask if we shall implement it.
             - Simulate circuits and decide on components.
             - NE555 timer IC?
+
+
 
 Monday
   Updated power point with IR sensor current response. Unfortunately not used.
@@ -15,6 +18,10 @@ Monday
   Grand Meeting / Presentation.
 
 
+Tuesday
+    ATtiny85 low effect microcontroller
+    intervaller 
+    
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 WEEK 38
