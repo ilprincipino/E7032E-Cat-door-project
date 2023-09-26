@@ -1,3 +1,30 @@
+Meeting 5
+Time, date: 26/9, 10:15
+Attending:
+Agnes, Arvid, Matilda och Anders
+
+Agenda:
+- Snabb uppdatering från IR
+  - Hur mycket vi har kvar beror på vilken krets vi ska bygga, och om något gick fel på testerna Agnes var md på. 
+    Programmera alla filter beroende på strömsparläge. Vi behöver göra om testerna och se om något gått fel där. 
+    Välja resistor och se vad som behövs för att få bra skillnad, hitta ett bra läge. Bör testa utomhus och på natten,
+    den måste funka dygnet runt. Få till en fungerande krets innan man testar utomhus. Anders kanske hoppar in på IR. 
+    Bygga för att få en perfekt signal och spara ström, Johan tycker att man antingen har en strömsnål diod, op-amp 
+    och sånt, som kan vara lite bättre. Eller låg effekt op-amp och bättre lampa. 
+- Snabb uppdatering från antenn
+  - Har inte gjort framsteg. Inget steg. Fullt upp med elektronikkonstruktion, men ska bygga kretsen idag. Sen 
+    göra samma tester med fancy oscilloskop. Mer effektiv krets kanske senare. 
+- Snabb uppdatering från knappar + LED
+  - LED blinkar. Ska blinka annorlunda och reagera på knappar. Påbörjat UML. Anders ska börja på power management 
+    och PCB-design.
+- Veckans mål 
+  - Går igenom mål för veckan. Nice med mål! 
+- Har Arvid och Jakob hittat chip de vill beställa? 
+  - Inget emot att beställa, men Arvid har inte känt behov av att beställa. 
+- Fri diskussion / go back to work!
+  - Minimöte för recap på måndagar? Nja. 
+
+
 Meeting 4
 Time, date: 19/9, 10:15
 Attending: 
@@ -5,7 +32,6 @@ Everyone but Agnes :(
 Agnes kom sent!
 
 Agenda:
-
 - Diskussion: IR-sensors
   - Pulsera under ett intervall, inte på hela tiden, men katten ska inte behöva vänta. Nu 160 ms. 
   - Större intervall = mindre ström. Hitta ett bra threshold med lite tester. 
