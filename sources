@@ -34,3 +34,7 @@ POWER MANAGEMENT:
   - https://en.wikipedia.org/wiki/AA_battery#NiZn
  Boost-converter:
   - https://www.monolithicpower.com/en/mp3424-single-aa-battery-boost-solution 2023-09-19
+
+
+PCB Design:
+ Raspberry pi pico youtube guide. https://www.youtube.com/watch?v=RNH-CL8GrF8&ab_channel=MicroTypeEngineering
