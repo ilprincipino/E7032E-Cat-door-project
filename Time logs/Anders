@@ -1,16 +1,33 @@
+WEEK 40:
+  Monday:
+    Worked with finding IC to every part of the PCB so we can order components.
+    Meeting with Jan.
+
+  Tuesday:
+  Wednesday:    
+  Thursday:
+  Friday:
+
+
 WEEK 39:
   Monday:
     Meeting with Jan.
 
   Tuesday:
-  Meeting with the group.
-  Worked with Matilda on getting the LEDS to work with button and also manage to control the motor with some buttons.
+    Meeting with the group.
+    Worked with Matilda on getting the LEDS to work with button and also manage to control the motor with some buttons.
     
   Wednesday:
-
+    Moral support for Matilda when she fixed the two buttons to work for the LED.
+    Tested to assembly the catflap and see if the catflap responded to a tag, but no sucess.
+    
   Thursday:
-
+    Nothing.
   Friday:
+    Nothing.
+
+  Sunday:
+    Found some IC for the PCB and looked more into powermanagement.
 
 
 WEEK 38:
@@ -33,7 +50,7 @@ WEEK 38:
     Worked with Matilda as we manage to get the raspberry pi pico to work with python code.
     Played around with some LEDs and Button in order to learn and implement them in the project.
     Planned work for next week.
-    Helped Matidla fixed powerpoint for next week.
+    Helped Matilda fixed powerpoint for next week.
     Did some planning for the future of the project.
 
 
