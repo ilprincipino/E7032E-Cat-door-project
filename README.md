@@ -10,7 +10,7 @@ Agnes Lindsten, agelin-7@student.ltu.se <br>
 Arvid Mattsson, arvmat-9@student.ltu.se <br>
 Jakob Ekvall, jakekv-9@student.ltu.se <br>
 
-Link to report: https://www.overleaf.com/project/64ec89515c7249235bb439da <br>
+Link to report: [https://www.overleaf.com/project/64ec89515c7249235bb439da](https://www.overleaf.com/read/vsyjcxfwmcch) <br>
 
 Link to presentation: https://docs.google.com/presentation/d/12QPiXXhClUaFdsH-6-YMc6YWno67U1GOmlV3GwxZOh8/edit?usp=sharing
 
