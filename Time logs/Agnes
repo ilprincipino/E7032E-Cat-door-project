@@ -1,6 +1,26 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                WEEK 40
+
+    TODO: 
+    - Test both actual current response and input via Raspberry Pi
+    - Learn Raspberry PI and Python coding
+    - Actually WRITE REPORT and TIME LOG
+    - Start with a simple circuit -> Build amplifier if needed.
+
+
+Monday
+    Grand Meeting / Presentation.
+
+
+Tuesday
+    Group meeting 10:15
+    Got to take over task to build IR circuit.
+    Calculated some forward currents etc for circuit.
+    Completed a tutorial for Raspberry Pi Pico and collected links etc. for MicroPython documentation.
+    
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-WEEK 39
+                                WEEK 39
 
     TODO:   - "Simplifiera och gör något som funkar"
             - Decide which circuit option to build. 
