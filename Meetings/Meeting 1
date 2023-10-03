@@ -1,3 +1,33 @@
+Meeting 6
+Time, date: 3/10, 10:15
+Attending:
+Everyone! 
+
+Agenda:
+- Mötesstruktur
+  - Försöka ha mer struktur. Hålla oss till punkter och inte sväva iväg. 
+- IR - Skrivit lite rapport. Metod och lite IR. Inte så mycket imperiska mätningar på IR-behöver jobba lite mer 
+  där. Skriva in alternativen i rapporten. Varför använder vi inte de andra alternativen? Kanske inte kan lita 
+  på raspberryns konverterare, testa hur stora skillnader.
+-  Antenn - inte jobbat mer än det som sades igår. Vad är nästa steg? Krets är på gång, byggd men fungerar inte. 
+   När den fungerar - kolla om den funkar liknande som ordinarie antenn. Hur många varv tråd och sånt? Beräkningar. 
+  Fler varv = bättre räckvidd, men ger ny induktans, måste räkna om. Hitta perfect ratio. 
+- General saker aka. Matilda och Anders - Matilda ska skriva rapport, göra databas, mer mjukvara. Anders gör PCB.
+- Anders och Jakob bråkar om saker. Vi andra tycker att det är enklast att löda på en raspberry, kopierar vi ändå 
+  så gör vi ju ändå inget själv. Vi bestämmer att vi löder på en raspberry men Anders får en egen liten plats för 
+  att leka. 
+- Mål för veckan - vem gör vad? 
+  - PCB design klar fredag - siktar på fredag, stressa oss lite. First draft! 
+  - Komponenter hittade och beställda fredag - tags, antenntråd (typ 50 meter). Hitta komponenter. 
+  - Skriv rapport - Matilda och Nabaz delar på de gemensamma delarna.
+  - IR - göra mätningar för att få fram resultat för rapporten. Bygg upp kretsen Anders gjort i PCBn för att se om 
+    den fungerar. Och testa i olika förhållanden. 
+- Andra updates (Matilda borta, Nabaz borta)
+  - Nabaz borta söndag-söndag, kanske missar måndagsmötet 16/10. 
+  - Matilda borta 21-24/10, samt 8-12/11 för jobb. 
+- Beställningar. Lägg in i inköpslista, tänk på framtiden! 
+
+
 Meeting 5
 Time, date: 26/9, 10:15
 Attending:
