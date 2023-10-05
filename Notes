@@ -21,3 +21,6 @@ Be able to control the different cat modes in software so we dont have to turn t
 
 If we have a single button for multiple action we can use different timings on the button and use the LED in order to see what mode we are in.
 For example when pressing the button we turn on/off the device and if we hold the button for 5sec we program a new cat 2023-09-15
+
+Add temperatur sensor
+Add speaker to call the cat to go inside "Miiiiiiiiissseeen!"
