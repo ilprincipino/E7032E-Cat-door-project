@@ -55,7 +55,17 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "lib_footprint_mismatch|103385000|72425000|36a8a244-9c8d-4985-8dca-a36176b267a0|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|111670000|86390000|c553e2fb-f74d-472f-9ccb-ec375354cd50|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|118065000|97325000|9faa8ad0-0e30-426d-992f-47a745892e0c|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|193565000|95325000|d03b4e3d-7ff2-48ae-a69a-dee2bd04653f|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|193850000|75700000|9fac91e3-5253-4969-8ff7-5fdc6010ffb8|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|203350000|82650000|3d9f2347-22c0-4922-a0da-b2e95cafb979|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|89470000|94215000|4476e7d0-b6d1-4894-a22d-1b208998eea6|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|99300000|90018750|8bb45ec6-7944-4157-8484-4904e1577024|00000000-0000-0000-0000-000000000000",
+        "text_height|97250000|90400000|731b6b7d-7bdd-4de8-a628-1e6255ee3af8|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -118,7 +128,7 @@
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.7999999999999999,
         "min_text_thickness": 0.08,
@@ -416,7 +426,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -426,7 +436,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.25,
+        "track_width": 0.15,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6
