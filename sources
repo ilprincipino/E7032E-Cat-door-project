@@ -2,6 +2,9 @@ Save your sources people!
 
 Cat flap: https://www.direct-vet.co.uk/ressources/sureflap_cat_flap_manual.pdf
 
+If you break the Pi, use this:
+https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython
+Then download micropython again, file in Software
 
 ANTENNA:
  - Farnell search que for some tags: https://se.farnell.com/w/c/wireless-modules-adaptors/rfid-modules/rfid-transponders-tags?frequency=125khz|134.2khz&st=rfid%20tag 2023-09-19
