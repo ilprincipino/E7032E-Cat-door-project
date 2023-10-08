@@ -7,17 +7,37 @@
     - Actually WRITE REPORT and TIME LOG
     - Start with a simple circuit -> Build amplifier if needed.
 
-
 Monday
     Grand Meeting / Presentation.
-
 
 Tuesday
     Group meeting 10:15
     Got to take over task to build IR circuit.
     Calculated some forward currents etc for circuit.
     Completed a tutorial for Raspberry Pi Pico and collected links etc. for MicroPython documentation.
-    
+
+Wednesday
+    Rebuilt the circuit again(!)
+    Still having problem with small current/voltage when using indirect position of sensor. Group says it should work and we don't need amplifier. A bit lost and don't know what to do.
+    Tested several things like increasing voltage and decreasing resistance for IR diode. Increasing resistance for photodiode. 
+    More researching. Can't find any IR sensor circuit that doesn't use amplifier.
+
+Thursday
+    Tested building an amplifier with uA741. Bad response. Think the current might be to small? Also got very slow and unstable response.
+
+Friday
+    Showed the circuit and that the voltage was too small to be recognized by Raspberry Pi. Did the same tests again with a lab partner.
+    Finally came to conclusion to add a transimpedance amplifier and got to put another OP amp in the shopping list.
+
+
+NEXT WEEK: 
+- simulate circuit with values from measurments (low voltage/current source representing photodiode)
+- check that the OP amp meets our needs
+- learn how to use low power microcontroller to have as a startup for raspberry PI to save power
+- hopefully get OP amp to build the circuit
+- if everything works:  - write a script for rasperry to signal "cat detected"/"start reading chip"
+                        - write report 
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
                                 WEEK 39
