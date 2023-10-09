@@ -1,4 +1,11 @@
-22208844663359989
+22224104034862256
+7x7 Button
+SW_DPDT_XLX
+DPDT Latching
+SW DPDT
+0
+6
+6
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2435,6 +2442,13 @@ speaker CUI
 0
 2
 2
+CD74HC4046AE
+DIP794W45P254L1969H508Q16
+
+
+0
+16
+16
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -52723,13 +52737,6 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
-DRV8837DSGR
-SON50P200X200X80-9N
-
-
-0
-11
-11
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -61025,6 +61032,13 @@ solder jumper open
 0
 5
 3
+L7805
+TO255P1020X450X2000-3
+
+
+0
+3
+3
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -62159,6 +62173,34 @@ Yellow 5381 Series LED
 0
 2
 2
+LMC7101AIM5
+SOT95P280X145-5N
+
+
+0
+5
+5
+LP2985AIM5-4.5
+SOT95P280X145-5N
+
+
+0
+5
+5
+Library
+SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mmALLBRIDGED
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
+net tie solder jumper bridged
+0
+3
+3
+MAX9010EXT_T
+SOT65P210X110-6N
+
+
+0
+6
+6
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -65869,6 +65911,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PTA2043-2010CIB103
+TRIM_PTA2043-2010CIB103
+
+
+0
+7
+7
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -84692,6 +84741,13 @@ rotary encoder
 0
 7
 6
+SFECV10M7KA00-R0
+FIL_SFECV10M7KA00-R0
+
+
+0
+3
+3
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -91104,6 +91160,13 @@ igbt diode module
 0
 25
 25
+U.FL-R-SMT-1_10_
+HRS_U.FL-R-SMT-1(10)
+
+
+0
+3
+3
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
