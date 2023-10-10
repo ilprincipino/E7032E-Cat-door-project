@@ -1,4 +1,53 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                WEEK 41
+THIS WEEK: 
+- simulate circuit with values from measurments (low voltage/current source representing photodiode)
+✔ check that the OP amp meets our needs - It did not! Got a better suggestion from Johan Borg :D
+✔ learn how to use low power microcontroller to have as a startup for raspberry PI to save power
+- implement detection and startup script   ("cat detected"/"start reading chip")
+- hopefully get OP amp to build the circuit
+- write report!
+
+Monday
+    Grand Meeting / Presentation.
+
+
+Tuesday
+   ✔ Group meeting 10:15
+   ✔ Learn/Use ATTINY85 
+        - PWM Turn on IR 150 ms intervalls  (for about 1 ms?) 
+        - Detect changes in voltage |absolute value|
+        - Turn on lamp when detected (this will later turn on Raspberry PI)
+        - If no/wrong chip detected --> Turn off RaspPI and Start searching again
+
+  LINKS:
+    https://highlowtech.org/?p=1695 - Another example is ATmega328P ?
+    https://www.instructables.com/Programming-the-ATtiny85-from-Raspberry-Pi/ 
+    https://www.youtube.com/watch?v=i9WOwDrpRKs&ab_channel=DavidWatts
+
+    Best/Newest/Simplest:
+    👉 https://www.youtube.com/watch?v=JGf6P52LO5c&ab_channel=THEELECTRONICGUY
+
+    Pinout:
+      https://www.hackster.io/alaspuresujay/use-an-attiny85-with-arduino-ide-07740c
+
+    Datasheet:
+      https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf
+
+    - Went well! Programmed through Arduino IDE
+    - Tested script with separate voltage source
+    - Need to borrow another micro USB ._. but. can do without.
+
+
+Wednesday
+    - Implement PWM signal
+    - Test on oscilloscope, check that it is properly 150ms/1ms
+    - Write script to detect peaks 
+    - Simulate if time over
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
                                 WEEK 40
 
     TODO: 
@@ -28,15 +77,6 @@ Thursday
 Friday
     Showed the circuit and that the voltage was too small to be recognized by Raspberry Pi. Did the same tests again with a lab partner.
     Finally came to conclusion to add a transimpedance amplifier and got to put another OP amp in the shopping list.
-
-
-NEXT WEEK: 
-- simulate circuit with values from measurments (low voltage/current source representing photodiode)
-- check that the OP amp meets our needs
-- learn how to use low power microcontroller to have as a startup for raspberry PI to save power
-- hopefully get OP amp to build the circuit
-- if everything works:  - write a script for rasperry to signal "cat detected"/"start reading chip"
-                        - write report 
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
