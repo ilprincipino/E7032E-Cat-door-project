@@ -34,16 +34,26 @@ Tuesday
     Datasheet:
       https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf
 
-    - Went well! Programmed through Arduino IDE
+    - Went well! Programmed RTTINY85 through Arduino IDE
     - Tested script with separate voltage source
-    - Need to borrow another micro USB ._. but. can do without.
+    - Need to borrow another micro USB ._. But. Can do without.
 
+Thursday
+    - Built circuit where RTTINY85 reads analog input and if voltage over certain bits -> Blue LED on
+    - Got everything to work with only Raspberry Pi plugged in but could be unplugged and use RTTINY85 as power source.
+    - Struggled a bit with finding the correct levels (voltage to bits). Apparently RTTINY85 adapts to it's input voltage to it's 8bits?
+    - Will have to adapt range from the amplifier perfectly since it has so small resolution. Or pick a better (higher res) low power microcontroller!
 
-Wednesday
-    - Implement PWM signal
-    - Test on oscilloscope, check that it is properly 150ms/1ms
-    - Write script to detect peaks 
-    - Simulate if time over
+Friday
+    - Make RTTINY85 start Raspberry PI when "cat" detected (instead of the blue LED). 
+          💭 Do we need a separate voltage source to start RPI instead?
+    - Write script to detect absolute DIFFERENCE in voltage (instead of over certain level). 
+          💭 Over how long time?
+    - Implement PWM signal that turns on IR diode + Photodiode in 150ms intervalls for about 1ms tops.
+    (- Test on oscilloscope, check that it is properly 150ms/1ms)
+    (- Correctly map voltage to bits on RTTINY85 with DC source) 
+          💭 Is it possible to "print" values from low power microcontroller..?
+    - Simulate and design amplifier circuit in PSpice.
 
 
 
