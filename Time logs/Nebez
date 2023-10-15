@@ -30,10 +30,16 @@ Been finishing up the final tweeks of the IR sensors part. So I been working on 
 structur and the IR sensors method and theory. Also started focusing more on the programing for the project and more
 specificly the app. Never done an app before so I been researching different frameworks where I can develope the app. Mostly 
 searching for extensions from python, as django, Kivy, Beeware to see what is possible to develope there, can I develope
-for both IOS and andriod, is it able to have input communications from other systems and so on. 
+for both IOS and android, is it able to have input communications from other systems and so on. 
 
 Week 41
-For app
-installed beeware
-installed git
-installed android studios
+In the beginning of the week I have been creating apps using different frameworks. I tried Kivy which is a python 
+based framwork for both backend and frontend development but I was not happy with the how the frontend was 
+being developt, as it dosn't use native IOS/android user interface. Beeware is newly developt and based on
+python as well, even thou it has a clean user interface, the functionality was limited to what it could do at 
+this stage of Beewares development. 
+I landed on using Flutter, which is developt by google's chrome team. I created an initial homepage
+and began to create multiple pages for the different functions of the app. Also researched about what kind 
+of backend engine should be used, and the choice to be Flask, which seems powerful on its on. 
+
+Week 42
