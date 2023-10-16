@@ -1,12 +1,48 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                WEEK 42
+THIS WEEK: 
+- Simulate amplifier circuit with values from measurments (low voltage/current source representing photodiode)
+- Got the OP amp -> Build circuit!
+- Tests oscilloscope
+- Remember to add input signal to Rasp Pi from wich side cat comes (high/low)
+- Remember to send the Matlab script for making consistent graphs in the report.
+- Write report!
+
+
+Monday
+- Grand Meeting / Presentation
+- Project Room to discuss parts and check out the delivery :)
+
+
+Tuesday
+- Build circuit
+- Check/adjust frequency of sensor
+- Check resolution of ATTINY85 with oscilloscope
+- Make switch if Raspberry PI Pico has no "turn on" pin.
+
+
+Wednesday
+- Group meeting 10:15
+- Probably fix some problem with circuit
+
+
+Thursday
+- Write report. 
+
+
+Friday
+- Write report.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
                                 WEEK 41
 THIS WEEK: 
-- simulate circuit with values from measurments (low voltage/current source representing photodiode)
+✔ Learn/use/connect ATTINY85 
 ✔ check that the OP amp meets our needs - It did not! Got a better suggestion from Johan Borg :D
 ✔ learn how to use low power microcontroller to have as a startup for raspberry PI to save power
-- implement detection and startup script   ("cat detected"/"start reading chip")
-- hopefully get OP amp to build the circuit
-- write report!
+✔ implement detection and startup script   ("cat detected"/"start reading chip")
+
 
 Monday
     Grand Meeting / Presentation.
@@ -54,6 +90,9 @@ Friday
     (- Correctly map voltage to bits on RTTINY85 with DC source) 
           💭 Is it possible to "print" values from low power microcontroller..?
     - Simulate and design amplifier circuit in PSpice.
+
+Sunday
+    - Bought another micro USB to be able to program/read values from attiny and Raspberry Pi at the same time.
 
 
 
