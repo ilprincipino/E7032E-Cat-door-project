@@ -1,33 +1,38 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
                                 WEEK 42
 THIS WEEK: 
-- Simulate amplifier circuit with values from measurments (low voltage/current source representing photodiode)
-- Got the OP amp -> Build circuit!
-- Tests oscilloscope
+✔ Simulate amplifier circuit with values from measurments (low voltage/current source representing photodiode)
+✔ Got the OP amp -> Build circuit!
+- Tests on oscilloscope
 - Remember to add input signal to Rasp Pi from wich side cat comes (high/low)
-- Remember to send the Matlab script for making consistent graphs in the report.
+- Remember to send the Matlab script to group for making consistent graphs in the report.
 - Write report!
 
 
 Monday
 - Grand Meeting / Presentation
-- Project Room to discuss parts and check out the delivery :)
+- Project Room discussions regarding components and check out the delivery :)
 
 
 Tuesday
-- Build circuit
-- Check/adjust frequency of sensor
-- Check resolution of ATTINY85 with oscilloscope
-- Make switch if Raspberry PI Pico has no "turn on" pin.
+- Soldered (pcb) op amp LM358 for testing gain.
+- Built circuit. Tested. Working. 
+- Soldering broke. Soldered again.
+- Researched RTTINY85: the ADC has 10 bits! Should be enough.
+- Raspberry Pi script suddenly don't work. Need to fix.
 
 
 Wednesday
 - Group meeting 10:15
-- Probably fix some problem with circuit
+- Probably fix problems with circuit and amplifier. Can we get higher photodiode current? Mutistage amplifier?
+- Check/adjust frequency of sensor
+- Check resolution of ATTINY85 with oscilloscope
+- Make switch if Raspberry PI Pico has no "turn on" pin.
+- Test PCB circuit (can 100k be enough? Calculations in nano-range current needs mega ohm:s feedback resistor.
 
 
 Thursday
-- Write report. 
+- Program / Write report. 
 
 
 Friday
