@@ -1,3 +1,50 @@
+Meeting 8
+Time, date: 18/10, 10:15
+Attending: Everyone but Arvid, he is sick
+
+Agenda:
+- Question regarding antenna from Jan. Angle the antenna as a W? 
+  We'll look into it! 
+  Our existance is a burden :(
+  At least he won't look at the report! 
+- Update
+  - Nabaz. Det går. Använt lite olika frameworks, testat olika. Beware var nytt, lite dokumentation, saknades funktioner. Kivys UI
+    är keff, fult :(. Landade i Flutter. Endast frontend, kommer behöva bygga backend på något annat sätt. 
+  - Kollat lite på funktioner som vi (Nabaz och Matilda) vill ha. 
+  - Matilda väntar på saker. Ritat diagram. 
+  - Anders har kollat lite på signalanalys. Kom typ inte fram till något. Gjort en annan circuit för att kunna jämföra. 
+  - Jakob och Arvid har inte gjort så mycket, har jobbat på radion. De har en krets som nog kommer fungera, men det är svårt
+    att simulera.
+  - Agnes har fortsatt på IR. Det mest successful delen är RTTINY. Den är 10 bits. Har bytt förstärkare några gånger, funkar
+    bra när de är riktade mot varandra, men är problem när de är lite vinklade. Programmerat så raspberryn får info från tinyn.
+    Göra en loop? Osäker på stegsvaret när katten kliver in. Vänta typ en halv sekund för att se om katt kommer. 
+- New goals for the upcoming week
+  - Få till saker på PCBn, få igång motor och led osv. 
+  - Löda op-amp, den är liten. Få IR att fungera. 
+  - Nabaz - rapportskrivning och tenta-p. Dona lite mer med app, vänta på databas innan backend. 
+  - Arvid ska jobba lite på antenn i veckan, Jakob är upptagen med omtenta ett tag. 
+- Issues? 
+  - Op-amp. Jakob tar med hemifrån. Op-ampen blir också väldigt varm. 
+  - Förstärkaren. Får en viss spänning men det blir inte en så stor skillnad. Anders hjälper till att kolla på det. 
+- En till beställning? 
+  - Inte än. 
+- Övrigt
+  - Anders åker bort hela nästa vecka. Ska skriva på rapport då och kanske börja kolla på midterm presentation. 
+  - Matilda borta måndag - tisdag nästa vecka. 
+  - Nabaz och Jakob tenta 23-24. 
+  - Agnes ska hem efter midterm presentation. 
+  - Inget möte nästa måndag (23/10). Jan vill att vi ska sitta i projektrummet oftare. Bara be om saker vi behöver. 
+  - Midterm-möte måndag 30/10. 
+  - Kollar på måndag(23/10) om vanligt tisdagsmöte behövs.  
+
+
+Meeting 7
+Time, date: 10/10, 10:15
+
+- Set new goals for the upcoming week, cool. 
+- Reiterate goals for midterm presentation
+
+
 Meeting 6
 Time, date: 3/10, 10:15
 Attending:
