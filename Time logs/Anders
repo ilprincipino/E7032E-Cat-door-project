@@ -1,12 +1,18 @@
 WEEK 42:
   Monday:
     Meeting with Jan.
+    Manage to get the Proxmark3 to work and was able to detect 125KHz chip and look at the ASK data on a oscilloscope. 
   Tuesday:
     Started to solder the PCB with Matilda and Agnes and Arvid showed up and joined for a bit :)
 
   Wednesday:
+    Meeting with the people.
+
   Thursday:     
-  Friday:
+    Kept soldering on the PCB with Matilda and started with some faulttracing.
+
+Friday:
+    Did some faulttracing with Matilda and mange to get all of the part of the cicuit to work except the receiver of the photodiode. 
 
 WEEK 41:
   Monday:
