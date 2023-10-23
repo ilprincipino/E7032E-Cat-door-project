@@ -11,6 +11,9 @@ ANTENNA:
  - Antenna design PDF: http://ww1.microchip.com/downloads/en/AppNotes/00710c.pdf
  - EM4100 125kHz: https://docs.rs-online.com/6ee7/0900766b8161beae.pdf
  - EM4100 Protocol: https://www.priority1design.com.au/em4100_protocol.html
+ - FDX-B protocol: https://www.priority1design.com.au/fdx-b_animal_identification_protocol.html
+ - HDX protocol: https://www.priority1design.com.au/hdx_animal_identification_protocol.html
+
 
 IR SENSOR:
  How to calculate resistorvalue:
