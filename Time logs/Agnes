@@ -1,16 +1,48 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                WEEK 43
+- Get gains and values to work with attiny85 from separate power supply.
+- Make a 150 ms loop and tests on oscilloscope.
+- Extend circuit and code to include another IR sensor pair and commute accordingly to RaspberryPI (cat inside/outside).
+
+
+Monday
+- No meeting.
+
+
+Tuesday
+- Had trouble with circuit today.
+- Computer didn't detect attiny85.
+- DC source might have too high current?
+- Struggles.
+
+
+Wednesday
+- Made IDE Thonny work again and detect microcontroller.
+- Adjusted script and tested response with LEDs.
+
+
+Thursday
+- Try change in voltage script instead of limits.
+
+Friday
+- Test in lab? Possible to solder another op amp to try double sensors on circuit?
+
+
+Saturday
+Sunday
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
                                 WEEK 42
 THIS WEEK: 
 ✔ Simulate amplifier circuit with values from measurments (low voltage/current source representing photodiode)
 ✔ Got the OP amp -> Build circuit!
-- Tests on oscilloscope
 - Remember to add input signal to Rasp Pi from wich side cat comes (high/low)
 - Remember to send the Matlab script to group for making consistent graphs in the report.
 - Write report!
 
 
 Tips från Johan:   MCP6L01
-
 
 
 Monday
@@ -36,11 +68,31 @@ Wednesday
 
 
 Thursday
-- Program / Write report. 
+- The op amps ordered were for pcb so soldered legs on it to fit breadboard +_+ Took a while. But we had music.
+- Soldered pcb broke
+- Got help to re-solder it. Not 100% sure if it works.
+- Read datasheet to figure out characteristics and pin out. 
 
 
 Friday
-- Write report.
+- Went to lab to do tests on original catflap.
+- Looking to pickup other (breadboard) op amp. Not there.
+
+
+Saturday
+- Tested circuits again (!)
+- Can't make the transimpedance one to work.
+- Discovered that only the right part of (dual op amp) works the hard way. xP
+- BUT thought that the voltage change we managed to get with adjusting resistors might be enough for a non inverting amp.
+- WORKED. 
+- Calculated and simulated in PSpice to get a suitable gain with limits within 0-3.3 V.
+
+Sunday
+- Adjusted circuit and feedback resistors and got a good working circuit.gh  
+- Programmed limits in attiny85 so a lamp blinks for both a spike and a dip in voltage (white and black cat).
+- Still need to adjust limits for when current source is not through micro USB...!
+- Some crash issues that made me have to re-set up arduino and re write the code...
+
 
 
 
