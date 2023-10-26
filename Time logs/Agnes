@@ -10,22 +10,32 @@ Monday
 
 
 Tuesday
-- Had trouble with circuit today.
+- Laptop crashed..
+- Got trouble with circuit.
 - Computer didn't detect attiny85.
 - DC source might have too high current?
 - Struggles.
 
 
 Wednesday
-- Made IDE Thonny work again and detect microcontroller.
-- Adjusted script and tested response with LEDs.
+- Made IDE Thonny work again.
+- Re-wrote script and tested response with LEDs.
 
 
 Thursday
-- Try change in voltage script instead of limits.
+- Reinstalled drivers for attiny with Arduino. Worked the third time to detect it and upload scripts again. Happy cause thought I might have destroyed it with too high current from DC source..
+- Tried useing pinout to power the diodes and op amp but did not work. I guess too low current?
+- Will try with a switch or relay to periodically power them instead.
+- Had a relay from a electronic kit so read into that.
+
+
 
 Friday
+
+- Move whole system to work through attiny with relay or switch and find correct limits when attiny powered from separate source (not USB) which changes range.
+- Periodically run sensors to save power.
 - Test in lab? Possible to solder another op amp to try double sensors on circuit?
+- Try change in voltage script instead of limits.
 
 
 Saturday
