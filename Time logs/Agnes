@@ -39,18 +39,23 @@ Friday
 
 
 Saturday
-- Invesigate why bias changes everytime I startup circuit...!
-- Move whole system to work through attiny with relay or switch for powering diodes and amp circuit. 
-- Periodically run sensors to save power.
-- Wake up Raspberry when detected cat.
+- Invesigated why bias changes everytime I startup circuit...!
+- Tried adding cpacitors didn't help much.
+- attiny has been acting so weird and drivers stops working. Tomorrow I will just move the system to Raspberry Pi for now and see what to do... Maybe try/order another low power microcontroller?
+- Order other op amp or one that fits into breadboard.
+- Order other low power microcontroller?
 
 
 Sunday
-- Prep for Monday meeting! Graphs, circuit diagram etc.
+- Re-build the system in Raspberry Pi...!
+- Make system work through attiny with relay or switch for powering diodes and amp circuit. 
+- Periodically run sensors to save power.
+- Prep for Monday meeting. Graphs, circuit diagram etc.
 
 
 NEXT WEEK
 - Test in lab? Possible to solder another op amp to try double sensors on circuit?
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
                                 WEEK 42
