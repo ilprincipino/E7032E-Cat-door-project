@@ -1,3 +1,30 @@
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                WEEK 43
+
+- Build switch circuit to power diodes and start Rasp. Already on PCB?
+- Communicate with Raspberry Pi. What pins on PCB? 
+- New courses.
+- Mid-term presentation when...?
+
+
+Monday
+- (Morning) Prep for meeting.
+- Grand Meeting 11:30.
+- Test in lab? Possible to solder another op amp to try double sensors on circuit?
+
+Tuesday
+- Group meeting 10:15
+
+
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
                                 WEEK 43
 - Get gains and values to work with attiny85 from separate power supply.
@@ -47,14 +74,12 @@ Saturday
 
 
 Sunday
-- Re-build the system in Raspberry Pi...!
-- Make system work through attiny with relay or switch for powering diodes and amp circuit. 
-- Periodically run sensors to save power.
-- Prep for Monday meeting. Graphs, circuit diagram etc.
-
-
-NEXT WEEK
-- Test in lab? Possible to solder another op amp to try double sensors on circuit?
+- Finally figured out why laptop couldn't recognize attiny85.... had no voltage on but had a ground cable in +_+ 
+- Tried an relay or for powering diodes and amp circuit but just quick guide and think I did it wrong. Seems to be for higher voltages. Switch probably better.
+- Still hard to find exact limits for voltages to bits. Especially for grey objects wich gives a smaller response! 
+- Tried 'react on change' script but couldn't get it to work.
+- The response seems pretty slow when checked in Raspberry Pi.
+- Built a double ir-sensor circuit wich reacts on two photodiodes. Had to test a bit to find which AC input worked on attiny85."P2 = A1; P4 = A2;" only way to make them actually work. (Pin 2 and 4).
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
