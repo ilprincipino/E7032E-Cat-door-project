@@ -19,3 +19,10 @@ Läst på mer om hur man kan bygga en RFID-krets, felsökt kretsen, hittat olika
 41
 Möte med Johan där vi verifierade en ny design som ska vara mer effektiv. Simulerade den nya kretsen.
 
+42
+Fortsatt design av krets, hade bekymmer att få till antenndrivaren korrekt. Gjorde inte några större framsteg.s 
+
+43
+Flera möten med Johan, där drivningen av antennen löstes. Jobbade också på resten av kresten, filter och komparator. Valde ut komponenter, pratade med Johan om komponenter och valde ut nya.
+Iprincip hela kresten fungerar i simuleringen. Några få saker saknas i simuleringen men är lösta i verkligheten, (stega ned höga spänningen och inducering av spolen/taggen).
+Kollat runt mycket på komponenter och simulerat och checkat att krestsdesignen ser okej ut enligt honom.
