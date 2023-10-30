@@ -1,3 +1,28 @@
+WEEK 44:
+  Monday:
+    Meeting with Jan.
+    Manage to get a plot work with proxmark3 and is able to see a decoded signal from a tag, but not from the catflap tag.
+    Manage to get the Raspberrypi pico to work with the pcb and tested the different part of the circuit for the PCB.
+    Found the fault for the high power consumption with our PCB and manage to fix it.
+
+  Tuesday:
+  Wednesday:
+  Thursday:
+  Friday:
+
+WEEK 43:
+  Monday:
+    Did a lot of research for the ISO standars and know alot of what we need to be able to detect.
+    Spend alot of time to learn the different communication protocols EM4xx, FDX-B and HDX.
+  Tuesday:
+    Read through different datasheet for a better powermanagement for circuit protection, thinking of something called e-fuse that have all of the different protections.
+    Did some planning for the project.
+  Wednesday:
+    Planned different part of the report and started to write on it.    
+  Thursday:
+  Friday:
+     
+
 WEEK 42:
   Monday:
     Meeting with Jan.
@@ -122,3 +147,11 @@ WEEK 37:
     Email Jan in order to see where the components are.
     Did more planning for the entire project and see how its going.
     Help with flowchart of what happens when the cat goes in the cat flap.
+
+WEEK xx:
+  Monday:
+  Tuesday:
+  Wednesday:
+  Thursday:
+  Friday:
+
