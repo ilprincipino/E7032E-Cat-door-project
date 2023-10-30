@@ -17,3 +17,19 @@ Started working on an experimental setup mechanism to enable easy testing of the
 Week 39: 
 
 Designed, printed and assembled the experimental setup.
+
+Week 40: 
+
+Did some more research on how RFID antennas work and started simulating on a new design. 
+
+Week 41: 
+
+Meeting with Johan Borg to discuss the current 
+
+Week 42:
+
+I did not do any work on the project whatsoever this week as i focused on studying for an exam. 
+
+Week 43:
+
+Made major progress on the antenna circuits after simulating and discussing with Johan Borg. At the moment we now have in simulation a fully functional antenna driving circuit, from driving the coils to sending digital signals to the microcontrollers.
