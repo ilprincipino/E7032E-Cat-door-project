@@ -34,3 +34,4 @@ Week 43:
 
 Made major progress on the antenna circuits after simulating and discussing with Johan Borg. At the moment we now have in simulation a fully functional antenna driving circuit, from driving the coils to sending digital signals to the microcontrollers.
 I suggested adding a passive notch filter before the comparator to help remove more of the 125kHz carrier wave which worked well. Considering swapping it for an active notch filter with some gain, will experiment more with this later. 
+Did some minor testing/coding with the Raspberry Pi Pico to test its signal generating capabilities and found that it was fast enough to generate a 125kHz signal. 
