@@ -1,3 +1,30 @@
+Meeting 9
+Time, date: 31/10, 10:20
+Attending: Everyone!
+
+Agenda:
+- Push code!
+- Report!
+- Plans for this week
+  - Matilda väntar på saker. Behöver någon hjälp? Rapport, kod till PCBn med Anders. 
+  - Agnes - periodiskt slå på sensorerna.   
+  - Nabaz - sista projekt i tidigare kursen. Frontend, ska börja reseacha mer om backend och skriva flask-kod
+  - Arvid och Jakob ska skicka beställning och dubbelkolla med Johan.
+  - Anders - Kollar på pi, mottagaren till IR funkar inte. Det kommer. Börja koda.
+- Discussion - what should be included in the report? Protocols, installation guides etc?
+  - Referera bara. 
+- Issues/problems? 
+  - Säkerhetsrisk, hur testar vi så att den är säker för katten? Matilda och Anders kan göra en riskanalys
+  - Grå katt ger mindre utslag i sensorerna, kan det ha varit ett problem?
+  - Nabaz åker bort på fredag, vet inte hur länge han är borta. 
+  - Matilda har förlorat access till projektrummet. 
+- Ingen midterm presentation
+- Måste kolla på data från oscilloskopet. Matilda trakasserar Simon, Anders och Arvid gör ett försök. 
+- Veterinär? Kolla vad de köper för modeller, varifrån de köper osv
+- Kolla med Andreas hur det går med nya Raspberryn. 
+
+
+
 Meeting 8
 Time, date: 18/10, 10:15
 Attending: Everyone but Arvid, he is sick
